@@ -36,6 +36,7 @@ namespace WinFormsApp5
             btnTahmin.Enabled = false;
             timer1.Stop();
             timer2.Stop();
+            numSayi.Value = 0;
             btnBaslat.Enabled = true;
         }
 
@@ -54,10 +55,20 @@ namespace WinFormsApp5
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            btnTahmin.Text = $"Tahmin Et ({counter})";
-            progressBar1.Value = progressCounter;
-            progressCounter++;
-            counter--;
+            if (progressCounter < 60)
+            {
+                btnTahmin.Text = $"Tahmin Et ({counter})";
+                progressCounter++;
+                progressBar1.Value = progressCounter;
+                counter--;
+            }
+            else
+            {
+                lblIpucu.Text = "HAHAHA KAYBETTÝN!!!";
+                lblBilgi.Text = "HAHAHA KAYBETTÝN!!!";
+                Durdur();
+            }
+
         }
 
         string[] str = { "Kazanamayacaksýn hahaha", "Kaybettin bile", "Boþuna uðraþma", "Süren kalmadý" };
