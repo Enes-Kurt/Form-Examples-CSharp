@@ -7,8 +7,8 @@ Bu program bir form uygulamasýdýr. Sayý tahmin etme oyunu olarak tasarlanmýþ bu 
 <img src="https://github.com/Enes-Kurt/Form-Examples-CSharp/blob/master/1-%20Sayi%20Tahmin%20Etme%20Oyunu/Images/BaslangicEkrani.jpg" alt="Baslangic Ekrani" height="400">
 2. Oyun baþlatýldýktan sonra tahmin et butonu aktif hale gelir ve kullanýcýnýn kalan süresi hem tahmin et butonu içerisinde hem de alt kýsýmda bir progress bar olarak gözükür.
 3. Kullanýcý sayý giriþ yapar ve tahmin et butonuna basar. Eðer girilen sayý doðru ise kullanýcý oyunu kazanýr fakat girilen sayý yanlýþ ise alt kýsýmda kullanýcýya girilen sayý programýn seçtiði sayýdan büyük yada küçük þeklinde bilgilendirme verir.  
-<img src="https://github.com/Enes-Kurt/Form-Examples-CSharp/blob/master/1-%20Sayi%20Tahmin%20Etme%20Oyunu/Images/OyunEkrani.jng" alt="Oyun Ekrani" height="400">
+<img src="https://github.com/Enes-Kurt/Form-Examples-CSharp/blob/master/1-%20Sayi%20Tahmin%20Etme%20Oyunu/Images/OyunEkrani.jpg" alt="Oyun Ekrani" height="400">
 4. Kullanýcý programýýn seçtiði sayýyý doðru tahmin ederse bilgilendirme kýsýmlarýnda "KAZANDINIZ" yazýsýný görür. Kullanýcý doðru sayýyý bulamadan süre biterse kaybettiðine dair bir bilgilendirme alýr.  
-<img src="https://github.com/Enes-Kurt/Form-Examples-CSharp/blob/master/1-%20Sayi%20Tahmin%20Etme%20Oyunu/Images/KazanmaEkrani.jng" alt="Kazanma Ekrani" height="400">
-<img src="https://github.com/Enes-Kurt/Form-Examples-CSharp/blob/master/1-%20Sayi%20Tahmin%20Etme%20Oyunu/Images/KaybetmeEkrani.jng" alt="Kaybetme Ekrani" height="400">
+<img src="https://github.com/Enes-Kurt/Form-Examples-CSharp/blob/master/1-%20Sayi%20Tahmin%20Etme%20Oyunu/Images/KazanmaEkrani.jpg" alt="Kazanma Ekrani" height="400">
+<img src="https://github.com/Enes-Kurt/Form-Examples-CSharp/blob/master/1-%20Sayi%20Tahmin%20Etme%20Oyunu/Images/KaybetmeEkrani.jpg" alt="Kaybetme Ekrani" height="400">
 5. Oyun istenilirse "Oyunu Baþlat" butonu ile tekrar baþlatýlabilir veya program form ekraný kapatýlarak sonlandýrýlabilir.
