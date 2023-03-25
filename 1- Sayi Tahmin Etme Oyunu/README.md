@@ -4,7 +4,7 @@ Bu program bir form uygulamasýdýr. Sayý tahmin etme oyunu olarak tasarlanmýþ bu 
 ## Programýn Çalýþmasý
 
 1. Program açýlýþ ekranýn kullanýcý "Oyunu Baþlat" butonuna basarak oyunu baþlatýr.  
-<img src="/Images/BaslangicEkrani.jpg" alt="Baslangic Ekrani" >
+<img src="1- Sayi Tahmin Etme Oyunu/Images/BaslangicEkrani.jpg" alt="Baslangic Ekrani" >
 2. Oyun baþlatýldýktan sonra tahmin et butonu aktif hale gelir ve kullanýcýnýn kalan süresi hem tahmin et butonu içerisinde hem de alt kýsýmda bir progress bar olarak gözükür.
 3. Kullanýcý sayý giriþ yapar ve tahmin et butonuna basar. Eðer girilen sayý doðru ise kullanýcý oyunu kazanýr fakat girilen sayý yanlýþ ise alt kýsýmda kullanýcýya girilen sayý programýn seçtiði sayýdan büyük yada küçük þeklinde bilgilendirme verir.  
 ![Oyun Ekrani](Images/BaslangicEkrani.png)
