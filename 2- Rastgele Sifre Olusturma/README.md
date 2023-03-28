@@ -1,9 +1,9 @@
 # 2- Rastgele Sifre Olusturma
-Bu program bir form uygulamasýdýr. Ýstenilen sayýda ve uzunlukta,seçilen içeriklere (küçük harf, büyük harf, sayý, özel karakter) göre rastegele þifreler oluþturur.
+Bu program bir form uygulamasýdýr. Ýstenilen sayýda ve uzunlukta, seçilen içeriklere (küçük harf, büyük harf, sayý, özel karakter) göre rastegele þifreler oluþturur.
 
 ## Programýn Çalýþmasý
 
-1. Program ana ekranýnda 4 adet seçenek kutucuðu mevcuttur. Bu seçenekler kullanýcý tarafýndan isteðe baðlý olarak seçilerek þifrenin içeriðini oluþturur. Kutucunlarýn alt kýsmýnda ise þifre uzunluðunu ve oluþturulacak þifre adedini belirlemek için bölmeler mevcuttur.  
+1. Program ana ekranýnda 4 adet seçenek kutucuðu mevcuttur. Bu seçenekler kullanýcý tarafýndan isteðe baðlý olarak seçilerek þifrenin içeriðini oluþturur. Kutucknlarýn alt kýsmýnda ise þifre uzunluðunu ve oluþturulacak þifre adedini belirlemek için bölmeler mevcuttur.  
 <div align="center">
 	<img src="https://github.com/Enes-Kurt/Form-Examples-CSharp/blob/master/2-%20Rastgele%20Sifre%20Olusturma/Images/AnaEkran.jpg" alt="Ana Ekran" height="450">
 </div>
